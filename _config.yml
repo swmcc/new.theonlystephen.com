@@ -16,8 +16,8 @@ color:
 # Footer settings
 footer:
   copyright: theonlystephen 
-  location: Belfast
-  social: Around the Web
+  location: FAQ 
+  social: Other places 
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -26,11 +26,15 @@ social:
     url: http://twitter.com/swmcc
   - title: github
     url: http://github.com/swmcc
+  - title: linkedin
+    url: https://www.linkedin.com/in/theonlystephen 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
-  - line: 
+  - line: I started breathing in 1979 
+  - line: I've been bald since 2003 
+  - line: I'm from Northern Ireland 
+  - line: No, I'm not on Facebook 
 
 # Credits content
 credits: 'Built using <a href="http://jekyllrb.com">Jekyll</a><br />Tested using <a href="http://mochajs.org/">mocha</a><br />Deployed using <a href="http://www.codeship.com">Codeship</a><br />Hosted on <a href="https://pages.github.com/">Github Pages</a><br />'
